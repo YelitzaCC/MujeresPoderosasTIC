@@ -4,7 +4,7 @@ function Home() {
   return (
     <div>
       <h1>Mujeres Poderosas</h1>
-      <p>Esta es una pagina para mujeres, si eres hombre vete</p>
+      <p>Cambio por sandra</p>
       <Link href="/courses">
         <a>To cursos..</a>
       </Link>
